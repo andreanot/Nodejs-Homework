@@ -1,0 +1,72 @@
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "age": 18,
+    "isActive": true,
+    "dateCreated": "2023-03-07T21:53:35.445Z"
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "age": 19,
+    "isActive": true,
+    "dateCreated": "2023-03-07T21:53:35.445Z"
+  },
+  {
+    "username": "user3",
+    "password": "pass3",
+    "age": 20,
+    "isActive": false,
+    "dateCreated": "2023-03-07T21:53:35.445Z"
+  },
+  {
+    "username": "user4",
+    "password": "pass4",
+    "age": 21,
+    "isActive": true,
+    "dateCreated": "2023-03-07T21:53:35.445Z"
+  },
+  {
+    "username": "user5",
+    "password": "pass5",
+    "age": 22,
+    "isActive": true,
+    "dateCreated": "2023-03-07T21:53:35.445Z"
+  },
+  {
+    "username": "user6",
+    "password": "pass6",
+    "age": 23,
+    "isActive": false,
+    "dateCreated": "2023-03-07T21:53:35.445Z"
+  },
+  {
+    "username": "user7",
+    "password": "pass7",
+    "age": 24,
+    "isActive": true,
+    "dateCreated": "2023-03-07T21:53:35.445Z"
+  },
+  {
+    "username": "user8",
+    "password": "pass8",
+    "age": 25,
+    "isActive": true,
+    "dateCreated": "2023-03-07T21:53:35.445Z"
+  },
+  {
+    "username": "user9",
+    "password": "pass9",
+    "age": 26,
+    "isActive": false,
+    "dateCreated": "2023-03-07T21:53:35.445Z"
+  },
+  {
+    "username": "user10",
+    "password": "pass10",
+    "age": 27,
+    "isActive": false,
+    "dateCreated": "2023-03-07T21:53:35.445Z"
+  }
+]
